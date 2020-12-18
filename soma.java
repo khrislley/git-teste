@@ -1,7 +1,8 @@
 public class soma{
     public static void main(String[] args) {
-        int subt, a=10, b=3;
-        subt = a+b;
+        int subt, x=10, y=3;
+
+        subt = x+y;
 
         System.out.println(subt);
     } 
