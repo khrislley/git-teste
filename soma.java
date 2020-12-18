@@ -1,9 +1,9 @@
 public class soma{
     public static void main(String[] args) {
-        int subt, x=10, y=3;
+        double adicao, x=10.5, y=4.5;
 
-        subt = x+y;
+        adicao = x+y;
 
-        System.out.println(subt);
+        System.out.println(adicao);
     } 
 }
